@@ -60,7 +60,7 @@ for Industrial and Applied Mathematics, 2022.  \\
 [![paper](https://img.shields.io/badge/paper-yellowgreen)](https://www.sciencedirect.com/science/article/abs/pii/S0026269217308959}{link})
 
 * Lévy, Sacha, **Farimah Poursafaei**, Kellin Pelrine, and Reihaneh Rabbany. \"Active Keyword Selection to Track Evolving Topics on Twitter.\" Accepted in *Utility-Driven Mining and Learning (UDML) at  ICDM 2022*. arXiv preprint arXiv:2209.11135. \\
-[![arXiv](https://img.shields.io/badge/arXiv-2205.12454-b31b1b.svg)](https://arxiv.org/pdf/2209.11135.pdf}{link})
+[![arXiv](https://img.shields.io/badge/arXiv-2209.11135-b31b1b.svg)](https://arxiv.org/pdf/2209.11135.pdf}{link})
 
 * Bazzaz, Mostafa, Ali Hoseinghorban, **Farimah Poursafaei**, and Alireza Ejlali. \"High-Performance Predictable NVM-Based Instruction Memory for Real-Time Embedded Systems.\" *IEEE Transactions on Emerging Topics in Computing*, 2018: 441-455.  \\
 [![paper](https://img.shields.io/badge/paper-yellowgreen)](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8423095&casa_token=XNWavK4KjEIAAAAA:NozhK1AEvmQ8Wy33h222aw6YA0O-anZSbd558glbOX0dS0BLE7Nm-pByXtWAkOD8ngn_0C7reQ&tag=1}{link})
