@@ -33,6 +33,7 @@ In a previous life, I was doing research on the operating systems and compilers 
 [![arXiv](https://img.shields.io/badge/arXiv-2205.12454-b31b1b.svg)](https://arxiv.org/pdf/2207.10128.pdf)
 [![Video Link](https://img.shields.io/static/v1?label=Video&message=YouTube&color=red&logo=youtube)](https://www.youtube.com/watch?v=nGBP_JjKGQI)
 [![Github Repo](https://img.shields.io/badge/Github-link-lightgrey)](https://github.com/fpour/DGB)
+[![Poster](https://img.shields.io/badge/NeurIPS-poster-ff69b4)](http://fpour.github.io/files/NeurIPS_2022_D_&_B_poster.pdf)
 [![Blog Post](https://img.shields.io/badge/Medium-Blog-brightgreen)](https://medium.com/@shenyanghuang1996/towards-better-link-prediction-in-dynamic-graphs-cdb8bb1e24e9) 
 
 
