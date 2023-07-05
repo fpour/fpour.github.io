@@ -11,7 +11,7 @@ redirect_from:
 I am a Postdoctoral Fellow at [Mila, Québec AI Institute](https://mila.quebec/en/) & School of Computer Science ([SoCS](https://www.cs.mcgill.ca)) at [McGill University](https://www.mcgill.ca).
 I received my PhD from the Department of Electrical and Computer Engineering ([ECE](https://www.mcgill.ca/ece/)) at McGill University in 2022, under the supervison of Prof. [Zeljko Zilic](http://www.iml.ece.mcgill.ca/people/professors/zilic/) and Prof. [Reihaneh Rabbany](http://www.reirab.com).
 
-Currently, I am working on dynamic graph representation learning and graph neural networks. My background also includes network analysis and data mining applied in real-world networks including cryptocurrency transaction networks networks.
+Currently, I am working on dynamic graph representation learning, graph neural networks, and generally graph machine learning. My background also includes anomaly detection, network analysis, and data mining applied in real-world networks including cryptocurrency transaction networks.
 In a previous life, I was doing research on the operating systems and compilers for real-time embedded systems.
 
 
